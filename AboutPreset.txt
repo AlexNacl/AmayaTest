@@ -1,0 +1,6 @@
+To add a new images preset, follow this instructions:
+1. Make a new preset in one whole png-image.
+2. Give an image next numerical name (ex. if game already contains 1.png and 2.png, name it 3.png) 
+3. Slice preset in editor.
+4. Change the number in the AssetCount.txt to current preset amount.
+5. Ready! Zero code!
